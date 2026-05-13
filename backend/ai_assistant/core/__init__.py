@@ -1,0 +1,3 @@
+"""
+AI Assistant Core Modules
+"""
