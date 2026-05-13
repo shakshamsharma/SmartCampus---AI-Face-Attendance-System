@@ -37,4 +37,6 @@ SmartCampus_RealAI/
 │   └── requirements.txt  <- Python packages
 └── frontend/
     └── index.html        <- React SPA (all UI)
+
+
 Author By Saksham Sharma
